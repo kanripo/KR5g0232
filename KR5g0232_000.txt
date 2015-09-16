@@ -1,11 +1,11 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 太清元道眞經
+#+TITLE: 太清元道真經
 #+DATE: 2015-08-29 03:00:32
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 ¶¶¶¶¶
-<md:KR5g0232_HFL_000-001a>¶<pb:KR5g0232_CK-KZ_01p092b>
+<md:KR5g0232_HFL_000-001a>¶<pb:KR5g0232_YP-C_06weiji-01-0098b>
 太清元道眞經序¶
 元道者玄元之上道黃老之心秘也元和中¶孟謫仙降世其胎
 親皆積至誠醕厚謫仙又¶至慈敦孝先感東山陶大通君先示
